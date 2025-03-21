@@ -1,1 +1,1 @@
-Essa é a desgraça do arquivo criado no vs.code
+Esse é o arquivo criado no vs.code
